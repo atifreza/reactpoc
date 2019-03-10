@@ -1,0 +1,6 @@
+.btn-widget{
+    margin-top:2rem;
+}
+.btn-widget:disabled{
+    cursor: not-allowed;
+}
